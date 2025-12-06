@@ -2,8 +2,8 @@
 
 ## ** Overview**
 
-This repository contains the complete implementation for **Task 1** (LLM Prompt Evaluation) and **Task 2** (Two-Dashboard AI Feedback System).
-The project includes backend API development, user and admin dashboards, data storage workflow, and evaluation of prompt performance.
+This repository contains the complete implementation for **Task 1** (LLM Prompt Evaluation) and **Task 2** (Two-Dashboard AI Feedback System). The project includes backend API development, user and admin dashboards, data storage workflow, and evaluation of prompt performance.
+
 
 ---
 
