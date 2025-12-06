@@ -1,4 +1,4 @@
-# **AI Feedback System – Task 1 & Task 2**
+# **AI Feedback System**
 
 ##  Overview
 
@@ -7,7 +7,7 @@ This repository contains the complete implementation for **Task 1** (LLM Prompt 
 
 ---
 
-# ** Task 1 – LLM Prompt Evaluation System**
+#  Task 1 – LLM Prompt Evaluation System
 
 ## **1. Objective**
 
@@ -178,7 +178,7 @@ streamlit run streamlit_admin_app.py
 
 ---
 
-# ** 5. System Workflow**
+# 5. System Workflow
 
 1. The user submits a star rating and review through the **User Dashboard**.
 2. Data is sent to the **FastAPI backend**, which:
