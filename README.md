@@ -1,6 +1,6 @@
 # **AI Feedback System – Task 1 & Task 2**
 
-## ** Overview**
+##  Overview
 
 This repository contains the complete implementation for **Task 1** (LLM Prompt Evaluation) and **Task 2** (Two-Dashboard AI Feedback System). The project includes backend API development, user and admin dashboards, data storage workflow, and evaluation of prompt performance.
 
@@ -60,7 +60,7 @@ task1_prompt_evaluation.ipynb
 
 ---
 
-# ** Task 2 – Two-Dashboard AI Feedback System**
+#  Task 2 – Two-Dashboard AI Feedback System
 
 Task 2 implements a fully functioning web-based system:
 
@@ -178,7 +178,7 @@ streamlit run streamlit_admin_app.py
 
 ---
 
-# **📡 5. System Workflow**
+# ** 5. System Workflow**
 
 1. The user submits a star rating and review through the **User Dashboard**.
 2. Data is sent to the **FastAPI backend**, which:
@@ -194,7 +194,7 @@ streamlit run streamlit_admin_app.py
 
 ---
 
-# ** 6. Technologies Used**
+# 6. Technologies Used
 
 | Category     | Tools                 |
 | ------------ | --------------------- |
@@ -206,7 +206,7 @@ streamlit run streamlit_admin_app.py
 
 ---
 
-# ** 7. Conclusion**
+#  7. Conclusion
 
 This repository delivers a complete, production-ready system integrating prompt evaluation, backend engineering, frontend dashboards, and LLM-powered automation.
 The architecture is modular, scalable, and suitable for further development such as authentication, analytics, or extended model integration.
