@@ -7,7 +7,7 @@ This repository contains the complete implementation for **Task 1** (LLM Prompt 
 
 ---
 
-#  Task 1 – LLM Prompt Evaluation System
+#  TASK 1 - Rating Prediction via Prompting
 
 ## **1. Objective**
 
@@ -60,7 +60,7 @@ task1_prompt_evaluation.ipynb
 
 ---
 
-#  Task 2 – Two-Dashboard AI Feedback System
+#  TASK 2 - Two-Dashboard AI Feedback System (Web-Based)
 
 Task 2 implements a fully functioning web-based system:
 
